@@ -1,5 +1,5 @@
 1.
-
+средне
 Create a function that takes voltage and current and returns the calculated power.
 
 public class Program 
@@ -13,7 +13,7 @@ public class Program
 
 
 2.
-
+средне
 Create a function that takes the age in years and returns the age in days.
 
 public class Program 
@@ -26,7 +26,7 @@ public class Program
 }
 
 3.
-
+средне
 Given an n-sided regular polygon n, return the total sum of internal angles (in degrees).
 
 public class Program {
@@ -40,7 +40,7 @@ public class Program {
 
 
 4.
-
+средне
 Create a function that accepts a measurement value in inches and returns the equivalent of the measurement value in feet.
 
 function inchesToFeet(inches) {
@@ -54,7 +54,7 @@ function inchesToFeet(inches) {
 }
 
 5.
-
+средне
 In this challenge, you must verify the equality of two different values given the parameters a and b.
 
 using System.Reflection;
@@ -73,7 +73,7 @@ public class Program
 
 
 6.
-
+средне
 Create a function that takes a single character as an argument and returns the char code of its lowercased / uppercased counterpart.
 
 using System;
@@ -89,7 +89,7 @@ public class Program
 
 
 7.
-
+средне
 Create a function that takes an array of arrays with numbers. Return a new (single) array with the largest numbers of each.
 
 
@@ -112,7 +112,7 @@ public class Program
 
 
 8.
-
+средне
 Create a function that finds the word "bomb" in the given string (not case sensitive). If found, return "Duck!!!", otherwise, return "There is no bomb, relax.".
 
 using System;
@@ -165,7 +165,7 @@ namespace Bomb
 
 
 9.
-
+средне
 Count the amount of ones in the binary representation of an integer. For example, since 12 is 1100 in binary, the return value should be 2.
 
 using System;
@@ -180,7 +180,7 @@ public class Program
 }
 
 10.
-
+средне
 ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits. Your task is to create a function that takes a string and returns true if the PIN is valid and false if it's not.
 using System.Linq;
 
@@ -192,7 +192,7 @@ public class Program
 }
 
 11.
-
+средне
 Create a function that takes a string and returns the middle character(s). If the word's length is odd, return the middle character. If the word's length is even, return the middle two characters.
 using System;
 public class Program 
@@ -209,7 +209,7 @@ public class Program
 }
 
 12.
-
+средне
 A tetrahedron is a pyramid with a triangular base and three sides. A tetrahedral number is a number of items within a tetrahedron.
 
 Create a function that takes an integer n and returns the nth tetrahedral number.
