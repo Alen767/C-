@@ -222,3 +222,36 @@ public class Program {
 
 
 13.
+сложно
+Write a function that takes an integer i and returns a string with the integer backwards followed by the original integer.
+
+To illustrate:
+
+using System;
+using System.Linq;
+public class Program {
+  public static string ReverseAndNot(int i) {
+
+    return String.Join("", i.ToString().Reverse()) + i.ToString();
+
+  }
+}
+
+14.
+эксперт
+
+using System;
+public class Program
+{
+  	public static int TrailingZeroes(int n) 
+	  {
+		   int b = 1;
+       int a = 0;
+       while (Math.Pow(5, b) < n)
+       {
+           a += n / (int)Math.Pow(5, b);
+           b++;
+       }
+       return a;
+	  }
+}
